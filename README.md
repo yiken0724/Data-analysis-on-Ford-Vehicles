@@ -92,15 +92,3 @@ install.packages(c("psych", "dplyr"))
 | `MH3511 Group Project (Group 37).pdf` | Full group project report with results and discussion |
 
 ---
-
-## Authors
-
-Group 37 — MH3511 Data Analysis with Computer, Nanyang Technological University
-
-| Name | Matric No |
-|------|-----------|
-| Choo Yi Ken | U2240710B |
-| Matthew Heng Yu Jie | U2223483D |
-| Tong Hao Kit | U2240130E |
-| Grand Tan Ze Ming | U2240872B |
-| Hydee Qurniawan B Rosli | U2040911F |
